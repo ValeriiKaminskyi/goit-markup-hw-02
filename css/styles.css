@@ -36,13 +36,15 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+
 .menu-link:hover,
 .menu-link:focus {
   color: #404bbf;
 }
-
-.address-link {
+.page-address {
   font-style: normal;
+}
+.address-link {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -90,7 +92,7 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.benefitss-list-text {
+.benefits-list-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
